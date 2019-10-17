@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_eco">#F0F0F0</color>
+    <color name="green_eco_light">#85AB57</color>
+    <color name="green_eco">#749C43</color>
+    <color name="green_eco_dark">#2B4D02</color>
+    <color name="red_eco">#EC4C4C</color>
+    <color name="gray">#89898B</color>
+</resources>

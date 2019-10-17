@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260688532564",
+    "firebase_url": "https://projeto-android-mobile.firebaseio.com",
+    "project_id": "projeto-android-mobile",
+    "storage_bucket": "projeto-android-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260688532564:android:e1de832003d3395a8409c1",
+        "android_client_info": {
+          "package_name": "com.example.projetoandroidmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260688532564-fi092lk1k5eeneve87l37iqt24map4al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuXvMAyWV8m9f5I8yygUXjP8nl09Rjtvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260688532564-fi092lk1k5eeneve87l37iqt24map4al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
